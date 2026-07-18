@@ -15,7 +15,7 @@ Passionate about Digital Design, RTL Development, and RISC-V Processor Design. I
 - 🌱 Learning **SystemVerilog, RTL Design, FPGA Design & ASIC Design Flow**
 - 🤝 Looking to collaborate on **Open-Source RTL/VLSI Projects**
 - 💬 Ask me about **Verilog, FSMs, Digital Design, RTL Coding & RISC-V**
-- 📫 Email: **your_email@example.com**
+- 📫 Email: **maddasanitirumala281@gmail.com**
 
 ---
 
@@ -69,18 +69,18 @@ Passionate about Digital Design, RTL Development, and RISC-V Processor Design. I
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark)
+![](https://github-readme-stats.vercel.app/api?username=Tirumala000&show_icons=true&theme=github_dark)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=github-dark)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Tirumala000&theme=github-dark)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tirumala000&layout=compact&theme=github_dark)
 
 ---
 
 ## 📫 Connect With Me
 
-- GitHub: https://github.com/YOUR_GITHUB_USERNAME
-- LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN_URL
+- GitHub: https://github.com/Tirumala000
+- LinkedIn: www.linkedin.com/in/tirumala-maddasani
 
 ---
 
